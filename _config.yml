@@ -5,6 +5,7 @@ title_separator          : "-"
 name                     : &name "Faceia (Xinmeng) Hou"
 description              : &description "personal description"
 url                      : https://Faceia.github.io
+baseurl                  : ""
 repository               : "Github/Paparare"
 
 # Site Author
