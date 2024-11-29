@@ -6,7 +6,7 @@ name                     : &name "Faceia (Xinmeng) Hou"
 description              : &description "personal description"
 url                      : https://Faceia.github.io
 baseurl                  : ""  # Root hosting, no subpath
-repository               : "Paparare/Faceia.github.io"
+repository               : "Paparare/FaceiaPage"
 
 # Site Author
 author:
