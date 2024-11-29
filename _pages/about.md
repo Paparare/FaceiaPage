@@ -17,6 +17,7 @@ I graduated with a Master of Arts in Applied Linguistics from Columbia Universit
 
 
 ## News
+  - [Nov. 2024] Codemate is now recognized by the Ministry of Education of China in the second batch of Typical Case Studies of “AI + Higher Education” Application Scenarios as a part of Shanghai Jiao Tong University’s proposal! [http://www.moe.gov.cn/s78/A08/tongzhi/202411/t20241118_1163542.html]
   - [Nov. 2024] Our paper on mitigating bias in minority languages is accepted at EMNLP-NLP4DH 2024.
   - [Oct. 2024] CodeMate is now in experiments with two undergraduate courses. Access here with SJTU account [https://apex.sjtu.edu.cn/TBTcodemate/]
   - [Aug. 2024] Presented LanPIP at the KDD’24 AI4EDU Workshop in Barcelona, Spain.
