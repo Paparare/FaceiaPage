@@ -18,4 +18,4 @@ main:
     url: https://faceia-teaching-site.webflow.io
 
   - title: "CV"
-    url: files/cv.pdf
+    url: /files/cv.pdf
