@@ -5,7 +5,7 @@ title_separator          : "-"
 name                     : &name "Faceia (Xinmeng) Hou"
 description              : &description "personal description"
 url                      : https://Faceia.github.io
-baseurl                  : ""  # Root hosting, no subpath
+baseurl                  : "/FaceiaPage"  # Root hosting, no subpath
 repository               : "Github/Paparare"
 
 # Site Author
