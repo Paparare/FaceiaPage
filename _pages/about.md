@@ -24,23 +24,15 @@ I graduated with a Master of Arts in Applied Linguistics from Columbia Universit
 - **[May. 2024]** Presented a systematic review on conversational AI for language learning at CALICO 2024.
 
 
-## Selected Research Projects
-  - CodeMate: [AI-Powered Higher Education](http://apex.sjtu.edu.cn/TBTcodemate/)
-    <p><img src="{{ site.baseurl }}/images/researches/code_mate.png"  style=""></p>    
-
-  - Open R: [Advanced Reasoning with Large Language Models](https://github.com/openreasoner/openr)
-    <p class="home-openr-img"><img src="{{ site.baseurl }}/images/researches/openr.png"  style=""></p> 
+## Selected Recent Research Projects
+  - `Sentiment Analysis` The preprint of Trans-ASTE will be available on arXiv after Dec. 3rd.
+  - `LLM-agent in Education` CodeMate: [AI-Powered Higher Education](http://apex.sjtu.edu.cn/TBTcodemate/)
+  - `LLM-agent in Reasoning` Open R: [Advanced Reasoning with Large Language Models](https://github.com/openreasoner/openr)
 
 ## Competitions
-  1. LLM Prompt Recovery
-  - Achieved: Top 1%
-  - Code Link
-  2. Predict Student Performance from Game Play
-  - Achieved: Top 4.5%
-  - Code Link
-  3. Image Matching Challenge 2023
-  - Achieved: Top 7.0%
-  - Code Link
+  1. LLM Prompt Recovery - Top 1% [Code Link](https://github.com/Paparare/llm_prompt_recovery)
+  2. Predict Student Performance from Game Play - Top 4.5% [Code Link](https://github.com/Paparare/GamePlayPerformance_.698)
+  3. Image Matching Challenge 2023 - Top 7.0% [Code Link](https://github.com/Paparare/Image_match_2023)
 
 
 {% include home/publications.md %}
